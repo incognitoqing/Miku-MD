@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['254750850203']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['254750850203']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['254750850203']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.Owner = ['254741878344']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['254741878344']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['254741878344']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.BotName = "Incognito"
 global.packname = "Qing bot"
 global.author = "By: Qing"
 global.OwnerName = "Qing"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
+global.SupportGroupLink = "https://wa.me/<254741878344>"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
 
